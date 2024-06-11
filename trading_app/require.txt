@@ -1,0 +1,7 @@
+pandas
+requests
+numpy
+backtrader
+dash
+streamlit
+python-binance

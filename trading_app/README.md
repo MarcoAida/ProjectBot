@@ -1,0 +1,1 @@
+a test of an AI bot for trading
